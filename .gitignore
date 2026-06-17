@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv/
+result
+result-*
+
+# lean4web is a separate project with its own git history
+lean4web/
+
+# scratch files
+import sys.
+*.lean.save
