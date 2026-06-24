@@ -160,3 +160,25 @@ This codebase serves as the GPU simulation and circuit-primitive layer for quant
 ## License
 
 Research code developed at C-DAC Noida. CUDA-Q is © NVIDIA Corporation (Apache-2.0). Qiskit is © IBM (Apache-2.0).
+
+---
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@misc{nasirali_cudaq_qec_qldpc,
+  author    = {Nasir Ali},
+  title     = {Cudaq QEC QLDPC},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/nasir26/Cudaq_QEC_QLDPC},
+  note      = {Centre for Development of Advanced Computing (C-DAC), Noida, India}
+}
+```
+
+## License
+
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.\
+© 2026 Nasir Ali, C-DAC Noida. All rights reserved.
